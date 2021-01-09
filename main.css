@@ -3,5 +3,25 @@ body {
   height: 100vh;
   background: url('assets/constantinos-panagopoulos-fLABFYSN188-unsplash.jpg') no-repeat center;
   background-size: cover;
-  text-align: center;
+  font-family: 'Amatic SC', cursive;
   }
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0 auto;
+
+}
+.quote {
+  line-height: 40px;
+  font-size: 40px;
+  text-align: center;
+  margin: 20px 50px;
+}
+.poet {
+  font-size: 22px;
+  position:fixed;
+  right: 90px;
+}
+ 
